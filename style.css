@@ -67,6 +67,7 @@ section {
     font-weight: 600;
     margin: 5px;
     font-size: 15px 5px;
+    cursor: pointer;
 }
 
 .btn-primary {
@@ -132,6 +133,11 @@ footer .social a {
     }
 }
 
+/* a {
+    cursor: pointer;
+    color: #FFF;
+    text-decoration: none;
+} */
 
 /* - Strong Cyan: hsl(171, 66%, 44%)
 - Light Blue: hsl(233, 100%, 69%)
