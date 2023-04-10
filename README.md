@@ -2,6 +2,8 @@
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
+## live site: https://haliboss.github.io/Clipboard-Landing-Web-Page/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
